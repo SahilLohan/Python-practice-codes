@@ -4,7 +4,7 @@
 // code --->
 
 
-class Solution(object):
+class  Solution(object):
     def lengthOfLastWord(self, s):
         n=len(s)
         while s[n-1]==" ":
