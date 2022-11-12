@@ -1,6 +1,8 @@
 # print all subsets of a list
 # lets use recursion
 
+
+
 ans=list()
 
 def solve(list1,length,index=0):
