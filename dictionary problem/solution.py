@@ -17,6 +17,7 @@ max_marks=0
 min_marks=20
 toppers=list()
 loosers=list()
+
 for student,marks in avgOfStudents.items():
 if marks>max_marks:
 toppers.clear()
@@ -42,7 +43,7 @@ students = {
 'Mayank': [8, 8, 13, 15, 14],
 'Jyoti': [19, 17, 13, 15, 13],
 'Don': [19, 17, 13, 15, 13],
-'Sachin': [9, 10, 15, 17, 11],
+'Rahul': [9, 10, 15, 17, 11],
 'Sonia': [11, 18, 13, 9, 16],
 }
 print("\nOriginal data provided is :- ")
