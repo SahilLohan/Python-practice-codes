@@ -6,6 +6,7 @@ c. Sum of all numbers in list L
 d. Sum of all prime numbers in list L
 e. Delete the list L.
 """
+
 #program for performing operations on list
 #1. INSERTION :-
 list = [10,12,13]
